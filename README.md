@@ -20,3 +20,5 @@ Pytanic is a classic 2D programming game. The goal of the game is to pilot a shi
 1. If the command was entered correctly, a confirmation message will be dislayed in green.
 1. If the command was entered wrong, the command window will display a red error message.
 1. When all the move/turn commands have been entered, type start to begin.
+
+![Main game screen](screenshots/main_game_screen.png)
