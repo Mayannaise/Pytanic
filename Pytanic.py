@@ -13,8 +13,8 @@ root = Tkinter.Tk()
 
 TITLE = "Pytanic Educational"
 
-SCREEN_HEIGHT = 480    #laptop
-SCREEN_WIDTH = 740     #laptop
+SCREEN_HEIGHT = 1366    #laptop
+SCREEN_WIDTH = 768     #laptop
 #SCREEN_HEIGHT = 480    #pi ??
 #SCREEN_WIDTH = 400     #pi ??
 #SCREEN_HEIGHT = 960     #hdtv
@@ -35,9 +35,9 @@ SPLASH_DISPLAY = 5000   #length to display spash screens for
 REVIEW_TIME = 300       #length to display mistake, before showing fail screen
 SHIP_SPEED = 4          #n pixels ship moves per frame
 
-MAX_ICEBERGS = 5    #number of Icebergs in water
-MAX_ISLANDS = 2     #number of Islands in water
-MAX_SHARKS = 3      #number of sharks in water
+MAX_ICEBERGS = 6    #number of Icebergs in water
+MAX_ISLANDS = 3     #number of Islands in water
+MAX_SHARKS = 4      #number of sharks in water
 
 #PROG_DIR = os.path.split(os.path.abspath(__file__))[0]     #program's directory
 PROG_DIR = "."                                              #program's directory
